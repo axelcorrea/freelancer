@@ -1,3 +1,3 @@
-Este fue el primer proyecto que hice utilizando HTML y CSS
+Este fue mi primer proyecto utilizando HTML y CSS
 
-URL:
+URL: https://axelcorrea.github.io/freelancer/
